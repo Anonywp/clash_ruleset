@@ -1,0 +1,46 @@
+payload:
+  #steam下载
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  #华为云
+  - DOMAIN,"steampipe.steamcontent.tnkjmec.com"
+  #白山云
+  - DOMAIN,"st.dl.eccdnx.com"
+  - DOMAIN,"st.dl.bscstorage.net"
+  - DOMAIN,"st.dl.pinyuncloud.com"
+  #金山云
+  - DOMAIN,"dl.steam.clngaa.com"
+  #网宿云
+  - DOMAIN,"cdn.mileweb.cs.steampowered.com.8686c.com"
+  - DOMAIN,"cdn-ws.content.steamchina.com"
+  #腾讯云
+  - DOMAIN,"cdn-qc.content.steamchina.com"
+  #阿里云
+  - DOMAIN,"cdn-ali.content.steamchina.com"
+  - IP-CIDR,45.121.184.0/24
+  - IP-CIDR,103.10.124.0/23
+  - IP-CIDR,103.28.54.0/24
+  - IP-CIDR,146.66.152.0/24
+  - IP-CIDR,146.66.155.0/24
+  - IP-CIDR,153.254.86.0/24
+  - IP-CIDR,155.133.224.0/22
+  - IP-CIDR,155.133.230.0/24
+  - IP-CIDR,155.133.232.0/23
+  - IP-CIDR,155.133.234.0/24
+  - IP-CIDR,155.133.236.0/22
+  - IP-CIDR,155.133.240.0/23
+  - IP-CIDR,155.133.244.0/23
+  - IP-CIDR,155.133.246.0/24
+  - IP-CIDR,155.133.248.0/21
+  - IP-CIDR,162.254.192.0/21
+  - IP-CIDR,185.25.182.0/23
+  - IP-CIDR,190.217.32.0/22
+  - IP-CIDR,192.69.96.0/22
+  - IP-CIDR,205.196.6.0/24
+  - IP-CIDR,208.64.200.0/22
+  - IP-CIDR,208.78.164.0/22
+  - IP-CIDR,205.185.194.0/24
+
+  # Epic Games中国大陆地区游戏下载
+  - DOMAIN,"epicgames-download1-1251447533.file.myqcloud.com"

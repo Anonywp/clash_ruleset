@@ -41,10 +41,12 @@ payload:
   - IP-CIDR,208.64.200.0/22
   - IP-CIDR,208.78.164.0/22
   - IP-CIDR,205.185.194.0/24
-  # Epic Games中国大陆地区游戏下载
+  #Epic Games中国大陆地区游戏下载
   - DOMAIN,"epicgames-download1-1251447533.file.myqcloud.com"
   #异世界动漫
   - DOMAIN,r2.hfyrw.com
   - DOMAIN-SUFFIX,mikudm.net
   - DOMAIN-SUFFIX,lldm.net
   - DOMAIN-SUFFIX,mmiku.net
+  #wegame lol测速
+  - DOMAIN-SUFFIX,wegamex.com.hk

@@ -50,3 +50,6 @@ payload:
   - DOMAIN-SUFFIX,mmiku.net
   #wegame lol测速
   - DOMAIN-SUFFIX,wegamex.com.hk
+  #谷歌
+  - DOMAIN,dl.google.com
+  - DOMAIN-SUFFIX,googleapis.cn

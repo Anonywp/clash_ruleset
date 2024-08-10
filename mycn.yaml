@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com,DIRECT
   - DOMAIN-SUFFIX,steamserver.net,DIRECT
   - DOMAIN-SUFFIX,test.steampowered.com,DIRECT
-  - DOMAIN-SUFFIX,api.steampowered.com,DIRECT
   - DOMAIN-SUFFIX,rmbgame.net,DIRECT
   #华为云
   - DOMAIN,"steampipe.steamcontent.tnkjmec.com"

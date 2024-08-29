@@ -2,11 +2,10 @@ payload:
   #steam下载
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
-  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
-  - DOMAIN-SUFFIX,steamserver.net,DIRECT
-  - DOMAIN-SUFFIX,test.steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,test.steampowered.com
   - DOMAIN-SUFFIX,rmbgame.net,DIRECT
   #华为云
   - DOMAIN,"steampipe.steamcontent.tnkjmec.com"
@@ -58,3 +57,6 @@ payload:
   #谷歌
   - DOMAIN,dl.google.com
   - DOMAIN-SUFFIX,googleapis.cn
+  #QQ网页登录
+  - DOMAIN,"localhost.ptlogin2.qq.com"
+  - DOMAIN,"localhost.sec.qq.com"

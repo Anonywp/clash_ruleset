@@ -1,5 +1,5 @@
 payload:
-  #steam下载
+  #steam
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
@@ -43,16 +43,5 @@ payload:
   - IP-CIDR,205.185.194.0/24
   #Epic Games中国大陆地区游戏下载
   - DOMAIN,"epicgames-download1-1251447533.file.myqcloud.com"
-  #异世界动漫
-  - DOMAIN,r2.hfyrw.com
-  - DOMAIN-SUFFIX,mikudm.net
-  - DOMAIN-SUFFIX,lldm.net
-  - DOMAIN-SUFFIX,mmiku.net
-  #wegame lol测速
-  - DOMAIN-SUFFIX,wegamex.com.hk
   #谷歌
   - DOMAIN,dl.google.com
-  - DOMAIN-SUFFIX,googleapis.cn
-  #QQ网页登录
-  - DOMAIN,"localhost.ptlogin2.qq.com"
-  - DOMAIN,"localhost.sec.qq.com"

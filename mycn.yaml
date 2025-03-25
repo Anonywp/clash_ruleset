@@ -45,3 +45,8 @@ payload:
   - DOMAIN,"epicgames-download1-1251447533.file.myqcloud.com"
   #谷歌
   - DOMAIN,dl.google.com
+  #pubg
+  - DOMAIN-SUFFIX,playbattlegrounds.com.cn
+  - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,pubg.com
+  - DOMAIN-SUFFIX,battleye.com

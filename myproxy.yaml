@@ -1,0 +1,22 @@
+payload:
+#战网
+ - DOMAIN-SUFFIX,battle.net
+ - DOMAIN-SUFFIX,blizzard.com
+ - DOMAIN,blizzard-api.arkoselabs.com
+#github
+ - DOMAIN-SUFFIX,githubhackathon.com
+ - DOMAIN-SUFFIX,ghcr.io
+ - DOMAIN-SUFFIX,githubnext.com
+ - DOMAIN-SUFFIX,githubpreview.dev
+ - DOMAIN-SUFFIX,github.blog
+ - DOMAIN-SUFFIX,github.com
+ - DOMAIN-SUFFIX,github.community
+ - DOMAIN-SUFFIX,github.dev
+ - DOMAIN-SUFFIX,github.io
+ - DOMAIN-SUFFIX,githubapp.com
+ - DOMAIN-SUFFIX,githubassets.com
+ - DOMAIN-SUFFIX,githubcopilot.com
+ - DOMAIN-SUFFIX,git.io
+ - DOMAIN-SUFFIX,githubstatus.com
+ - DOMAIN-SUFFIX,githubuniverse.com
+ - DOMAIN-SUFFIX,githubusercontent.com

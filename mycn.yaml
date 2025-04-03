@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamchina.com
+  - DOMAIN,xz.pphimalayanrt.com
   #华为云
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
   #白山云
